@@ -6,5 +6,5 @@ npm start
 ```
 
 ## About
-A comapnion project for a React Router course.
+This is a companion project for a React Router course.
 
